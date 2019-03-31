@@ -677,6 +677,12 @@ optparse.py:544:21: W601 .has_key() is deprecated, use 'in'
 ```
 
 ---
+[**Pyro**](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch. Maintained by Uber.
+
+![](https://raw.githubusercontent.com/pyro-ppl/pyro/dev/docs/source/_static/img/pyro_logo_with_text.png)
+
+
+---
 [**python-fire**](https://github.com/google/python-fire) is a library for creating command line interfaces (CLIs) from
 absolutely any Python object.
 
@@ -715,6 +721,13 @@ Supported: *Python 2.7/3.3+*
 [**PyREBox**](https://github.com/Cisco-Talos/pyrebox) is a Python scriptable Reverse Engineering sandbox. It is based on QEMU, and its goal is to aid reverse engineering by providing dynamic analysis and debugging capabilities from a different perspective. PyREBox allows to inspect a running QEMU VM, modify its memory or registers, and to instrument its execution, by creating simple scripts in python to automate any kind of analysis. QEMU (when working as a whole-system-emulator) emulates a complete system (CPU, memory, devices...). By using VMI techniques, it does not require to perform any modification into the guest operating system, as it transparently retrieves information from its memory at run-time.
 
 ![](https://github.com/Cisco-Talos/pyrebox/raw/master/docs/media/pyrebox_logo_light_bg.png)
+
+
+---
+[**Pytorch**](https://github.com/pytorch/pytorch) - An open source deep learning platform that provides a seamless path from research prototyping to production deployment. Maintained by Facebook.
+
+![](https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
+
 
 
 ## R
